@@ -1,16 +1,15 @@
-#Spring MVC
-###Spring Model - View - Controller
+# Spring MVC
+### Spring Model - View - Controller
 
 
-***Models*** => Tells how is the data structured or What the data is Looking Like ?
-***Services*** => Contains the Business Logic which or Works upon the data.
-***Repository*** => Make Connection with Database or Fetch the Model via Repository.
-***Controllers*** => Transfers the data between Service and View (UI).
-***Utilities*** => Constants or a Helper Package
-***Views*** => (resources/static) Static data like files, images
-               (resources/templates) HTML Templates
+***Models*** => Tells how is the data structured or What the data is Looking Like ?  
+***Services*** => Contains the Business Logic which or Works upon the data.  
+***Repository*** => Make Connection with Database or Fetch the Model via Repository.  
+***Controllers*** => Transfers the data between Service and View (UI).  
+***Utilities*** => Constants or a Helper Package  
+***Views*** => (resources/static) Static data like files, images => (resources/templates) HTML Templates  
 
-###Best Practices to be followed :-
+### Best Practices to be followed :-
 1. Code Against Interface not Implementation 
     (Reason:- Interface remains same whereas Implementation can change).
 
