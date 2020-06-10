@@ -39,3 +39,17 @@ Paste the code in the <dependencies> section of `pom.xml` (Maven) / `build.gradl
 
 Now, rebuild the application and aspectj will be loaded automatically.
 
+
+### Learning Material:-
+1. [Getting Started Spring.io](https://spring.io/guides/gs/spring-boot/)   
+2. [AOP Spring.io](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#aop)  
+   [AOP Journal.dev](https://www.journaldev.com/2583/spring-aop-example-tutorial-aspect-advice-pointcut-joinpoint-annotations)  
+3. [CORS Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)  
+   [CORS Tutorialspoint.com](https://www.tutorialspoint.com/spring_boot/spring_boot_cors_support.htm)  
+4. [Testing Spring.io](https://spring.io/guides/gs/testing-web/)  
+   [Testing Spring.io Doc](https://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/html/boot-features-testing.html#:~:text=41.3%20Testing%20Spring%20Boot%20applications&text=Spring%20Boot%20provides%20a%20%40SpringBootTest,in%20your%20tests%20via%20SpringApplication%20)  
+   [Testing Baeldung.com](https://www.baeldung.com/spring-boot-testing)  
+5. [ORM Spring.io](https://docs.spring.io/autorepo/docs/spring-framework/4.2.7.RELEASE/spring-framework-reference/html/orm.html)  
+
+### Videos:- 
+1. `https://www.youtube.com/watch?v=Ch163VfHtvA&list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4`  
