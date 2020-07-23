@@ -50,6 +50,7 @@ Now, rebuild the application and aspectj will be loaded automatically.
    [Testing Spring.io Doc](https://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/html/boot-features-testing.html#:~:text=41.3%20Testing%20Spring%20Boot%20applications&text=Spring%20Boot%20provides%20a%20%40SpringBootTest,in%20your%20tests%20via%20SpringApplication%20)  
    [Testing Baeldung.com](https://www.baeldung.com/spring-boot-testing)  
 5. [ORM Spring.io](https://docs.spring.io/autorepo/docs/spring-framework/4.2.7.RELEASE/spring-framework-reference/html/orm.html)  
+6. [Security Baeldung.com](https://baeldung.com/security-spring)  
 
 ### Videos:- 
-1. `https://www.youtube.com/watch?v=Ch163VfHtvA&list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4`  
+1. [Spring Telusko](https://www.youtube.com/watch?v=Ch163VfHtvA&list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4)  

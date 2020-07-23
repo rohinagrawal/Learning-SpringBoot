@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Payment Result Page</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<h1>Result</h1>
+<!--/*@thymesVar id="paymentFormDto" type="dev.rohin.practice.dto.PaymentFormDto"*/-->
+<p th:text="'Name: ' + ${paymentFormDto.name}" />
+<p th:text="'Email: ' + ${paymentFormDto.email}" />
+<p th:text="'Contact Number: ' + ${paymentFormDto.contactNumber}"></p>
+</body>
+</html>
