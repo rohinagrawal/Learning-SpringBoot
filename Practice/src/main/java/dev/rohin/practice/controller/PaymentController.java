@@ -10,6 +10,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
@@ -21,8 +22,8 @@ public class PaymentController {
 
     @GetMapping("/payment")
     public String paymentForm(Model model){
-        model.addAttribute("paymentForm", new PaymentFormDto());
-        return "paymentForm";
+        model.addAttribute("paymentFormDetails", new PaymentFormDto());
+        return "paymentForm.html";
     }
 
     @PostMapping("/payment")

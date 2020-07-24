@@ -26,7 +26,9 @@ public class UserServiceImpl implements UserService {
             user.setContactNumber(paymentFormDto.getContactNumber());
             user.setEmail(paymentFormDto.getEmail());
 
+            userRepository.save(user);
         }
+
         return user;
     }
 }
